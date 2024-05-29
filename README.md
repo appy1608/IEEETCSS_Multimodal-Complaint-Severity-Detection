@@ -9,6 +9,9 @@ We utilize the severity classes defined in the benchmark study \textit{Interlang
 Following are the severity classes:
 
 a) No explicit reproach: The complaint is of a neutral tone, and the reason for the complaint is not expressed explicitly.
+
 b) Disapproval: Complaint explicitly shows negative emotions such as annoyance or discontent. The claim may imply that the complainant holds the complainee accountable without saying so.
+
 c) Accusation: Complainant directly charges someone of wrongdoing.
+
 d) Blame: Complainant holds someone responsible for wrongdoing.
